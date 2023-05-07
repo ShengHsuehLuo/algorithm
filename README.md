@@ -8,8 +8,8 @@
 5. Map 和 雜湊表（Hash Table）
 6. 圖表（Graphs）
 7. 樹（Trees）
-    8. 二元樹（Binary Trees）和二元搜尋樹（Binary Search Trees）
-    9. AVL樹（Adelson-Velsky and Landis Trees ）
+    1. 二元樹（Binary Trees）和二元搜尋樹（Binary Search Trees）
+    2. AVL樹（Adelson-Velsky and Landis Trees ）
     11. 字典樹（Tries）
     12. 段樹（Segment Trees）
     13. 樹狀陣列（Fenwick Trees）
