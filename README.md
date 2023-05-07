@@ -9,7 +9,7 @@
 6. 圖表（Graphs）
 7. 樹（Trees）
     1. 二元搜尋樹（Binary Search Trees）
-        2. AVL樹（Adelson-Velsky and Landis Trees）
+        1. AVL樹（Adelson-Velsky and Landis Trees）
         2. RBT樹（Red Black Tree）
         3. Treap（Tree + Heap）
     11. 字典樹（Tries）
