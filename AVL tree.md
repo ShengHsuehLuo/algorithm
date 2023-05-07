@@ -12,5 +12,6 @@
     * bf > 0 : 左邊較重
     * bf < 0 : 右邊較重
 * 平衡過程可分為四種情況
-![GITHUB](/img/AVL_Tree_Rebalancing.png "AVL_Tree_Rebalancing.png")
+
 (from WIKI)
+![GITHUB](/img/AVL_Tree_Rebalancing.png "AVL_Tree_Rebalancing.png")
